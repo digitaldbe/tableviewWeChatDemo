@@ -2,8 +2,8 @@
 //  CustomCell.m
 //  Custom Cell
 //
-//  Created by Yang on 12-6-8.
-//  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
+//  Created by ioschen on 8/16/13.
+//  Copyright (c) 2013 ioschen. All rights reserved.
 //
 
 #import "CustomCell.h"
